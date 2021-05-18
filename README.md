@@ -1,0 +1,1 @@
+This final project for the course Data Processing in Python aims to work with downloaded data on daily subnational 14-day notification rate of new COVID-19 cases taken from the European Centre for Disease Prevention and Control on European Member States. 
